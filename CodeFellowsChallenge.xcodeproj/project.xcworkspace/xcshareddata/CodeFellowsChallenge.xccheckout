@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96A20572-C474-4948-94BB-71A5467984F8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CodeFellowsChallenge</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2101B35BBA7694FF1C47529EFC2906D7730833F1</key>
+		<string>https://github.com/joninsky/Library.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CodeFellowsChallenge.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2101B35BBA7694FF1C47529EFC2906D7730833F1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/joninsky/Library.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2101B35BBA7694FF1C47529EFC2906D7730833F1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2101B35BBA7694FF1C47529EFC2906D7730833F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Library</string>
+		</dict>
+	</array>
+</dict>
+</plist>
